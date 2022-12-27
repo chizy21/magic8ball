@@ -33,7 +33,7 @@ switch (randomNumber) {
         eightBall = 'Signs point to yes';
         break;
     default:
-        console.log('No question asked');
+        eightBall = 'No question asked';
         break;
 }
 
